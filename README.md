@@ -46,7 +46,6 @@ The model is built upon **Qwen2.5-VL-3B-Instruct** and trained using **LLaMA-Fac
 ```bash
 conda create -n robustrdp python=3.11.13
 conda activate robustrdp
-# Install PyTorch and other dependencies as needed
 ```
 
 ### 2. Clone This Repository
@@ -68,6 +67,15 @@ cd ..
 ```
 
 The patch registers the custom datasets (`stage1_pretrain`, `stage2_sft`, `stage3_dpo`) into LLaMA-Factory's dataset_info.json, and adds support for the `disturb_rxns` field used in perturbed reaction parsing during SFT.
+
+### 4. Install RobustRDP Additional Dependencies
+
+```bash
+cd RobustRDP
+pip install -r requirements.txt
+```
+
+This installs the extra packages required by RobustRDP's own code (Pillow, opencv-python, rdkit, SmilesPE, qwen-vl-utils, tqdm) that are not already covered by LLaMA-Factory's dependencies.
 
 ---
 
@@ -113,7 +121,7 @@ The script evaluates both test sets sequentially using 8 GPUs with distributed d
 
 ## Training RobustRDP
 
-Training consists of three sequential stages, each building upon the previous one.
+Training consists of three sequential stages, each building upon the previous one. The original experiments were conducted on **2 × NVIDIA H100 (80GB) GPUs**.
 
 > **⚠️ Important:** All training commands below must be executed from the **`RobustRDP/`** project root directory (i.e., the directory containing this `README.md`). The `train_scripts/`, `PLMs/`, `processed_train_data/`, and `saves/` paths are all relative to this root.
 
@@ -256,6 +264,7 @@ The platform enables efficient bounding-box and reaction structure annotation fo
 RobustRDP/
 ├── LLaMA-Factory/                    # Cloned & patched LLaMA-Factory (v0.9.4)
 ├── PLMs/                             # Pre-trained language models (Qwen2.5-VL-3B-Instruct)
+├── saves/                            # Training checkpoints (generated during training)
 ├── llamafactory_patch/               # Patch to register custom datasets in LLaMA-Factory
 │   └── patch.diff
 ├── train_scripts/                    # LLaMA-Factory training configs (YAML)
@@ -274,6 +283,13 @@ RobustRDP/
 ├── processed_val_data/               # Validation data (download from Hugging Face)
 │   ├── RxnScribe_test/
 │   └── RobustRDP_test/
+├── raw_val_data/                     # Raw validation data processing
+│   ├── gen_processed_val_data_rxnscribe_test.py
+│   ├── gen_processed_val_data_robustrdp_test.py
+│   ├── RobustRDP_test/               # Raw RobustRDP test images
+│   ├── RxnScribe_test/               # Raw RxnScribe test images
+│   └── utils/
+│       └── down_sample_rxn.py
 ├── pretrain_data_process/            # Synthetic pretrain data generation
 │   ├── gen_single_line.py
 │   ├── gen_multi_line.py
@@ -286,15 +302,10 @@ RobustRDP/
 │   ├── gen_region_guided_reaction_parsing.py
 │   ├── gen_prefix_perturbed_reaction_parsing.py
 │   └── post_process.py
-├── dpo_data_process/                 # DPO data generation
-│   ├── pre_process.py
-│   ├── gen_dpo.py
-│   └── gen_dpo.sh
-├── raw_val_data/                     # Raw validation data processing
-│   ├── gen_processed_val_data_rxnscribe_test.py
-│   ├── gen_processed_val_data_robustrdp_test.py
-│   └── utils/
-└── saves/                            # Training checkpoints (generated during training)
+└── dpo_data_process/                 # DPO data generation
+    ├── pre_process.py
+    ├── gen_dpo.py
+    └── gen_dpo.sh
 ```
 
 ---
