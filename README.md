@@ -1,12 +1,5 @@
-
-
-
 <h1 align="center">RobustRDP: Advancing Reaction Diagram Parsing via<br>Synthetic-to-Real Data Scaling and Robustness-Oriented Training</h1>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
-    <img src="" width="0" height="60" alt="">
-  </picture>
   <br>
   <img src="https://img.shields.io/badge/Status-Published-blue?style=flat-square" alt="Status">
   <a href="https://arxiv.org/abs/"><img src="https://img.shields.io/badge/arXiv-2502.14106-b31b1b?style=flat-square&logo=arxiv" alt="arXiv"></a>
@@ -15,8 +8,9 @@
   <a href="https://huggingface.co/datasets/Jingcz/RobustRDP-ProcessedValData"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Validation%20Data-ffcb05?style=flat-square" alt="Hugging Face Validation Data"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License"></a>
 </p>
-
----
+<p align="center">
+  <img src="fig/page_begin.png" alt="RobustRDP Overview" width="800">
+</p>
 
 This repository contains the official training and evaluation code for **RobustRDP**, a robust approach for chemical reaction diagram parsing that leverages:
 
@@ -53,6 +47,7 @@ conda activate robustrdp
 ```bash
 git clone https://github.com/jaydetang/RobustRDP.git
 cd RobustRDP
+pip install -r requirements.txt
 ```
 
 ### 3. Clone and Patch LLaMA-Factory
@@ -67,15 +62,6 @@ cd ..
 ```
 
 The patch registers the custom datasets (`stage1_pretrain`, `stage2_sft`, `stage3_dpo`) into LLaMA-Factory's dataset_info.json, and adds support for the `disturb_rxns` field used in perturbed reaction parsing during SFT.
-
-### 4. Install RobustRDP Additional Dependencies
-
-```bash
-cd RobustRDP
-pip install -r requirements.txt
-```
-
-This installs the extra packages required by RobustRDP's own code (Pillow, opencv-python, rdkit, SmilesPE, qwen-vl-utils, tqdm) that are not already covered by LLaMA-Factory's dependencies.
 
 ---
 
@@ -263,10 +249,10 @@ The platform enables efficient bounding-box and reaction structure annotation fo
 ```
 RobustRDP/
 ├── LLaMA-Factory/                    # Cloned & patched LLaMA-Factory (v0.9.4)
-├── PLMs/                             # Pre-trained language models (Qwen2.5-VL-3B-Instruct)
-├── saves/                            # Training checkpoints (generated during training)
 ├── llamafactory_patch/               # Patch to register custom datasets in LLaMA-Factory
 │   └── patch.diff
+├── PLMs/                             # Pre-trained language models (Qwen2.5-VL-3B-Instruct)
+├── saves/                            # Training checkpoints (generated during training)
 ├── train_scripts/                    # LLaMA-Factory training configs (YAML)
 │   ├── qwen2_5vl_3b_pretrain.yaml
 │   ├── qwen2_5vl_3b_sft.yaml
@@ -289,35 +275,23 @@ RobustRDP/
 │   ├── RobustRDP_test/               # Raw RobustRDP test images
 │   ├── RxnScribe_test/               # Raw RxnScribe test images
 │   └── utils/
-│       └── down_sample_rxn.py
 ├── pretrain_data_process/            # Synthetic pretrain data generation
-│   ├── README.md
-│   ├── chemistry.py                  # Chemical structure manipulation (Indigo, RDKit)
-│   ├── constants.py                  # Global constants and configuration
 │   ├── gen_single_line.py
 │   ├── gen_multi_line.py
 │   ├── gen_branch.py
 │   ├── gen_cycle.py
 │   ├── post_process.py
 │   ├── utils.py
-│   └── indigo/                       # Indigo cheminformatics wrapper
-│       ├── __init__.py
-│       ├── bingo.py
-│       ├── inchi.py
-│       └── renderer.py
+│   ├── indigo/                       # Indigo cheminformatics wrapper
+│   └── raw_data/
 ├── sft_data_process/                 # SFT data generation
-│   ├── README.md
 │   ├── gen_vanilla_reaction_parsing.py
 │   ├── gen_region_guided_reaction_parsing.py
 │   ├── gen_prefix_perturbed_reaction_parsing.py
 │   ├── post_process.py
+│   ├── raw_data/
 │   └── utils/
-│       ├── __init__.py
-│       ├── down_sample_rxn.py
-│       ├── tokenizer.py
-│       └── transforms.py
 └── dpo_data_process/                 # DPO data generation
-    ├── README.md
     ├── pre_process.py
     ├── gen_dpo.py
     └── gen_dpo.sh
