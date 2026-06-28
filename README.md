@@ -291,18 +291,33 @@ RobustRDP/
 │   └── utils/
 │       └── down_sample_rxn.py
 ├── pretrain_data_process/            # Synthetic pretrain data generation
+│   ├── README.md
+│   ├── chemistry.py                  # Chemical structure manipulation (Indigo, RDKit)
+│   ├── constants.py                  # Global constants and configuration
 │   ├── gen_single_line.py
 │   ├── gen_multi_line.py
 │   ├── gen_branch.py
 │   ├── gen_cycle.py
 │   ├── post_process.py
-│   └── utils.py
+│   ├── utils.py
+│   └── indigo/                       # Indigo cheminformatics wrapper
+│       ├── __init__.py
+│       ├── bingo.py
+│       ├── inchi.py
+│       └── renderer.py
 ├── sft_data_process/                 # SFT data generation
+│   ├── README.md
 │   ├── gen_vanilla_reaction_parsing.py
 │   ├── gen_region_guided_reaction_parsing.py
 │   ├── gen_prefix_perturbed_reaction_parsing.py
-│   └── post_process.py
+│   ├── post_process.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── down_sample_rxn.py
+│       ├── tokenizer.py
+│       └── transforms.py
 └── dpo_data_process/                 # DPO data generation
+    ├── README.md
     ├── pre_process.py
     ├── gen_dpo.py
     └── gen_dpo.sh
