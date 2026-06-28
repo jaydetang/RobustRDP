@@ -1,0 +1,6502 @@
+[
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001500.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001501.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.2,
+            "f1": 0.22222222222222224
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001502.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001503.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001504.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001505.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001506.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001507.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001508.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001509.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001510.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001511.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001512.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001513.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001514.png",
+        "overall": {
+            "precision": 0.9090909090909091,
+            "recall": 0.9090909090909091,
+            "f1": 0.9090909090909091
+        },
+        "mol_only": {
+            "precision": 0.9090909090909091,
+            "recall": 0.9090909090909091,
+            "f1": 0.9090909090909091
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001515.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001516.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001517.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001518.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001519.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001520.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001521.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001522.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001523.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001524.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001525.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001526.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001527.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001528.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001529.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001530.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001531.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001532.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001533.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001534.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001535.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001536.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001537.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001538.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001539.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001540.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001541.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001542.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001543.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001544.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001545.png",
+        "overall": {
+            "precision": 0.9230769230769231,
+            "recall": 0.9230769230769231,
+            "f1": 0.9230769230769231
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001546.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001547.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001548.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001549.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001550.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001551.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001552.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001553.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001554.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001555.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001556.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001557.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001558.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001559.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001560.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001561.png",
+        "overall": {
+            "precision": 0.5555555555555556,
+            "recall": 0.7142857142857143,
+            "f1": 0.6250000000000001
+        },
+        "mol_only": {
+            "precision": 0.5555555555555556,
+            "recall": 0.7142857142857143,
+            "f1": 0.6250000000000001
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001562.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001563.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001564.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001565.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001566.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001567.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001568.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001569.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.7142857142857143,
+            "f1": 0.7142857142857143
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001570.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001571.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001572.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001573.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001574.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001575.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001576.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001577.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001578.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001579.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001580.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001581.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001582.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001583.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001584.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001585.png",
+        "overall": {
+            "precision": 0.7,
+            "recall": 0.6363636363636364,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.7272727272727273,
+            "f1": 0.761904761904762
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001586.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001587.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001588.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001589.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001590.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001591.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001592.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001593.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.7142857142857143,
+            "f1": 0.7142857142857143
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001594.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001595.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001596.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001597.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001598.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001599.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.7142857142857143,
+            "f1": 0.7142857142857143
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001600.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.5,
+            "f1": 0.4
+        },
+        "mol_only": {
+            "precision": 0.3333333333333333,
+            "recall": 0.5,
+            "f1": 0.4
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001601.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001602.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001603.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.6666666666666666,
+            "f1": 0.7058823529411765
+        },
+        "mol_only": {
+            "precision": 0.875,
+            "recall": 0.7777777777777778,
+            "f1": 0.823529411764706
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001604.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001605.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001606.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001607.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001608.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001609.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001610.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001611.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001612.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001613.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001614.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001615.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001616.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001617.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001618.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001619.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001620.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001621.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001622.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001623.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001624.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001625.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001626.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001627.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001628.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001629.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001630.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001631.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001632.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001633.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001634.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001635.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001636.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001637.png",
+        "overall": {
+            "precision": 0.4,
+            "recall": 0.4,
+            "f1": 0.4000000000000001
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001638.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001639.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001640.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001641.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "f1": 0.4
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001642.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001643.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001644.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.8571428571428571,
+            "f1": 0.923076923076923
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8571428571428571,
+            "f1": 0.923076923076923
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001645.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001646.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.7142857142857143,
+            "f1": 0.7142857142857143
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001647.png",
+        "overall": {
+            "precision": 0.9166666666666666,
+            "recall": 0.8461538461538461,
+            "f1": 0.8799999999999999
+        },
+        "mol_only": {
+            "precision": 0.9166666666666666,
+            "recall": 0.8461538461538461,
+            "f1": 0.8799999999999999
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001648.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001649.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001650.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001651.png",
+        "overall": {
+            "precision": 0.6153846153846154,
+            "recall": 0.6666666666666666,
+            "f1": 0.64
+        },
+        "mol_only": {
+            "precision": 0.9230769230769231,
+            "recall": 0.9166666666666666,
+            "f1": 0.9198606271777002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001652.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.9090909090909091,
+            "f1": 0.8695652173913043
+        },
+        "mol_only": {
+            "precision": 0.8333333333333334,
+            "recall": 0.9090909090909091,
+            "f1": 0.8695652173913043
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001653.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001654.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001655.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001656.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001657.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001658.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001659.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.4,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.4,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001660.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001661.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001662.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001663.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001664.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001665.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001666.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.8888888888888888,
+            "f1": 0.9411764705882353
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8888888888888888,
+            "f1": 0.9411764705882353
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001667.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001668.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001669.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001670.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001671.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001672.png",
+        "overall": {
+            "precision": 0.7222222222222222,
+            "recall": 0.8125,
+            "f1": 0.7647058823529411
+        },
+        "mol_only": {
+            "precision": 0.7777777777777778,
+            "recall": 0.8125,
+            "f1": 0.7947598253275109
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001673.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001674.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001675.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001676.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001677.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.75,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 1.0,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001678.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001679.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001680.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001681.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001682.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.6666666666666666,
+            "f1": 0.7272727272727272
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.6666666666666666,
+            "f1": 0.7272727272727272
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001683.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001684.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001685.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001686.png",
+        "overall": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        },
+        "mol_only": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001687.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001688.png",
+        "overall": {
+            "precision": 0.5384615384615384,
+            "recall": 0.5833333333333334,
+            "f1": 0.5599999999999999
+        },
+        "mol_only": {
+            "precision": 0.9230769230769231,
+            "recall": 1.0,
+            "f1": 0.9600000000000001
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001689.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001690.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001691.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001692.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001693.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001694.png",
+        "overall": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        },
+        "mol_only": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001695.png",
+        "overall": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        },
+        "mol_only": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001696.png",
+        "overall": {
+            "precision": 0.8235294117647058,
+            "recall": 0.875,
+            "f1": 0.8484848484848485
+        },
+        "mol_only": {
+            "precision": 0.9411764705882353,
+            "recall": 1.0,
+            "f1": 0.9696969696969697
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001697.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001698.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001699.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001700.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001701.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001702.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001703.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001704.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001705.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.625,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.75,
+            "f1": 0.7999999999999999
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001706.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001707.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001708.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001709.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001710.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001711.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001712.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001713.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001714.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001715.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001716.png",
+        "overall": {
+            "precision": 0.42857142857142855,
+            "recall": 0.42857142857142855,
+            "f1": 0.42857142857142855
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001717.png",
+        "overall": {
+            "precision": 0.4,
+            "recall": 0.4,
+            "f1": 0.4000000000000001
+        },
+        "mol_only": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001718.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001719.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001720.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.75,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.75,
+            "f1": 0.6666666666666665
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001721.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.3333333333333333,
+            "f1": 0.28571428571428575
+        },
+        "mol_only": {
+            "precision": 0.25,
+            "recall": 0.3333333333333333,
+            "f1": 0.28571428571428575
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001722.png",
+        "overall": {
+            "precision": 0.4444444444444444,
+            "recall": 0.4,
+            "f1": 0.4210526315789474
+        },
+        "mol_only": {
+            "precision": 0.7777777777777778,
+            "recall": 0.7,
+            "f1": 0.7368421052631577
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001723.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001724.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001725.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001726.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001727.png",
+        "overall": {
+            "precision": 0.36363636363636365,
+            "recall": 0.3333333333333333,
+            "f1": 0.34782608695652173
+        },
+        "mol_only": {
+            "precision": 0.6363636363636364,
+            "recall": 0.5833333333333334,
+            "f1": 0.6086956521739131
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001728.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001729.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001730.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001731.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001732.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001733.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001734.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001735.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001736.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001737.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001738.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001739.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001740.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001741.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001742.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001743.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001744.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001745.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001746.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001747.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001748.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001749.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001750.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001751.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001752.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001753.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001754.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001755.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001756.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001757.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001758.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001759.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001760.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001761.png",
+        "overall": {
+            "precision": 0.4444444444444444,
+            "recall": 0.4444444444444444,
+            "f1": 0.4444444444444444
+        },
+        "mol_only": {
+            "precision": 0.7777777777777778,
+            "recall": 0.7777777777777778,
+            "f1": 0.7777777777777778
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001762.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001763.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001764.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001765.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001766.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001767.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001768.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001769.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001770.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001771.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001772.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001773.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001774.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001775.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001776.png",
+        "overall": {
+            "precision": 0.46153846153846156,
+            "recall": 0.4,
+            "f1": 0.42857142857142855
+        },
+        "mol_only": {
+            "precision": 0.5384615384615384,
+            "recall": 0.4666666666666667,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001777.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001778.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001779.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001780.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001781.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001782.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001783.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001784.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001785.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001786.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001787.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001788.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001789.png",
+        "overall": {
+            "precision": 0.9090909090909091,
+            "recall": 0.8333333333333334,
+            "f1": 0.8695652173913043
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.9166666666666666,
+            "f1": 0.9565217391304348
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001790.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001791.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001792.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001793.png",
+        "overall": {
+            "precision": 0.2,
+            "recall": 0.2,
+            "f1": 0.20000000000000004
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001794.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001795.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001796.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001797.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001798.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001799.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001800.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001801.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001802.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001803.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001804.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001805.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001806.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001807.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001808.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001809.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001810.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001811.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001812.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001813.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001814.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001815.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001816.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001817.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001818.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001819.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001820.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001821.png",
+        "overall": {
+            "precision": 0.9,
+            "recall": 0.6923076923076923,
+            "f1": 0.7826086956521738
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.7692307692307693,
+            "f1": 0.8695652173913044
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001822.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.4,
+            "f1": 0.4444444444444445
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001823.png",
+        "overall": {
+            "precision": 0.42857142857142855,
+            "recall": 0.6,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.42857142857142855,
+            "recall": 0.6,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001824.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1": 0.7692307692307692
+        },
+        "mol_only": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1": 0.7692307692307692
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001825.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.8571428571428571,
+            "f1": 0.923076923076923
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8571428571428571,
+            "f1": 0.923076923076923
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001826.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001827.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001828.png",
+        "overall": {
+            "precision": 0.8181818181818182,
+            "recall": 0.8181818181818182,
+            "f1": 0.8181818181818182
+        },
+        "mol_only": {
+            "precision": 0.9090909090909091,
+            "recall": 0.9090909090909091,
+            "f1": 0.9090909090909091
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001829.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001830.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001831.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001832.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001833.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.9090909090909091,
+            "recall": 0.9090909090909091,
+            "f1": 0.9090909090909091
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001834.png",
+        "overall": {
+            "precision": 0.625,
+            "recall": 0.5555555555555556,
+            "f1": 0.5882352941176471
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.6666666666666666,
+            "f1": 0.7058823529411765
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001835.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001836.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001837.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001838.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001839.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001840.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001841.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001842.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001843.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001844.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001845.png",
+        "overall": {
+            "precision": 0.7727272727272727,
+            "recall": 0.7727272727272727,
+            "f1": 0.7727272727272727
+        },
+        "mol_only": {
+            "precision": 0.9545454545454546,
+            "recall": 0.9545454545454546,
+            "f1": 0.9545454545454546
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001846.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001847.png",
+        "overall": {
+            "precision": 0.8181818181818182,
+            "recall": 0.8181818181818182,
+            "f1": 0.8181818181818182
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001848.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.7777777777777778,
+            "recall": 0.7777777777777778,
+            "f1": 0.7777777777777778
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001849.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1": 0.7692307692307692
+        },
+        "mol_only": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1": 0.7692307692307692
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001850.png",
+        "overall": {
+            "precision": 0.9090909090909091,
+            "recall": 0.9090909090909091,
+            "f1": 0.9090909090909091
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001851.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001852.png",
+        "overall": {
+            "precision": 0.9166666666666666,
+            "recall": 0.9166666666666666,
+            "f1": 0.9166666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001853.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001854.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001855.png",
+        "overall": {
+            "precision": 0.4,
+            "recall": 0.5,
+            "f1": 0.4444444444444445
+        },
+        "mol_only": {
+            "precision": 0.4,
+            "recall": 0.5,
+            "f1": 0.4444444444444445
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001856.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001857.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001858.png",
+        "overall": {
+            "precision": 0.7777777777777778,
+            "recall": 0.7777777777777778,
+            "f1": 0.7777777777777778
+        },
+        "mol_only": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001859.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001860.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001861.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001862.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001863.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001864.png",
+        "overall": {
+            "precision": 0.9285714285714286,
+            "recall": 0.9285714285714286,
+            "f1": 0.9285714285714286
+        },
+        "mol_only": {
+            "precision": 0.9285714285714286,
+            "recall": 0.9285714285714286,
+            "f1": 0.9285714285714286
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001865.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001866.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001867.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001868.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001869.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001870.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001871.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001872.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001873.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001874.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001875.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001876.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001877.png",
+        "overall": {
+            "precision": 0.7142857142857143,
+            "recall": 0.6666666666666666,
+            "f1": 0.689655172413793
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8,
+            "f1": 0.8275862068965518
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001878.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001879.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.36363636363636365,
+            "f1": 0.34782608695652173
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5454545454545454,
+            "f1": 0.5217391304347826
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001880.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001881.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001882.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001883.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001884.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001885.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001886.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001887.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001888.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001889.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001890.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001891.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001892.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001893.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001894.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.8571428571428571,
+            "f1": 0.7999999999999999
+        },
+        "mol_only": {
+            "precision": 0.875,
+            "recall": 1.0,
+            "f1": 0.9333333333333333
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001895.png",
+        "overall": {
+            "precision": 0.9166666666666666,
+            "recall": 0.9166666666666666,
+            "f1": 0.9166666666666666
+        },
+        "mol_only": {
+            "precision": 0.9166666666666666,
+            "recall": 0.9166666666666666,
+            "f1": 0.9166666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001896.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001897.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001898.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001899.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001900.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001901.png",
+        "overall": {
+            "precision": 0.16666666666666666,
+            "recall": 0.16666666666666666,
+            "f1": 0.16666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001902.png",
+        "overall": {
+            "precision": 0.5714285714285714,
+            "recall": 0.6666666666666666,
+            "f1": 0.6153846153846153
+        },
+        "mol_only": {
+            "precision": 0.5714285714285714,
+            "recall": 0.6666666666666666,
+            "f1": 0.6153846153846153
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001903.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001904.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001905.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001906.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001907.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001908.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001909.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1": 0.9473684210526316
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1": 0.9473684210526316
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001910.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001911.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001912.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001913.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001914.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001915.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001916.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001917.png",
+        "overall": {
+            "precision": 0.4,
+            "recall": 0.4,
+            "f1": 0.4000000000000001
+        },
+        "mol_only": {
+            "precision": 0.4,
+            "recall": 0.4,
+            "f1": 0.4000000000000001
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001918.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001919.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001920.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001921.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001922.png",
+        "overall": {
+            "precision": 0.38095238095238093,
+            "recall": 0.47058823529411764,
+            "f1": 0.42105263157894735
+        },
+        "mol_only": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8823529411764706,
+            "f1": 0.7894736842105262
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001923.png",
+        "overall": {
+            "precision": 0.5714285714285714,
+            "recall": 0.5714285714285714,
+            "f1": 0.5714285714285714
+        },
+        "mol_only": {
+            "precision": 0.7142857142857143,
+            "recall": 0.7142857142857143,
+            "f1": 0.7142857142857143
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001924.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001925.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001926.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001927.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001928.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001929.png",
+        "overall": {
+            "precision": 0.375,
+            "recall": 0.3333333333333333,
+            "f1": 0.35294117647058826
+        },
+        "mol_only": {
+            "precision": 0.375,
+            "recall": 0.3333333333333333,
+            "f1": 0.35294117647058826
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001930.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001931.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001932.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001933.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001934.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001935.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001936.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001937.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001938.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001939.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.8333333333333334,
+            "f1": 0.9090909090909091
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8333333333333334,
+            "f1": 0.9090909090909091
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001940.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001941.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001942.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001943.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001944.png",
+        "overall": {
+            "precision": 0.5555555555555556,
+            "recall": 0.5,
+            "f1": 0.5263157894736842
+        },
+        "mol_only": {
+            "precision": 0.5555555555555556,
+            "recall": 0.6,
+            "f1": 0.576923076923077
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001945.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001946.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001947.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001948.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001949.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001950.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001951.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001952.png",
+        "overall": {
+            "precision": 0.7272727272727273,
+            "recall": 0.8,
+            "f1": 0.761904761904762
+        },
+        "mol_only": {
+            "precision": 0.8181818181818182,
+            "recall": 0.9,
+            "f1": 0.8571428571428572
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001953.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001954.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001955.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001956.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001957.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.5,
+            "f1": 0.5714285714285715
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.5,
+            "f1": 0.5714285714285715
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001958.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001959.png",
+        "overall": {
+            "precision": 0.5294117647058824,
+            "recall": 0.45,
+            "f1": 0.48648648648648646
+        },
+        "mol_only": {
+            "precision": 0.7647058823529411,
+            "recall": 0.65,
+            "f1": 0.7027027027027027
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001960.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001961.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001962.png",
+        "overall": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        },
+        "mol_only": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001963.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001964.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001965.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001966.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001967.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001968.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.7142857142857143,
+            "f1": 0.8333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.7142857142857143,
+            "f1": 0.8333333333333333
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001969.png",
+        "overall": {
+            "precision": 0.42857142857142855,
+            "recall": 0.42857142857142855,
+            "f1": 0.42857142857142855
+        },
+        "mol_only": {
+            "precision": 0.42857142857142855,
+            "recall": 0.42857142857142855,
+            "f1": 0.42857142857142855
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001970.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001971.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001972.png",
+        "overall": {
+            "precision": 0.42857142857142855,
+            "recall": 0.5,
+            "f1": 0.4615384615384615
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 1.0,
+            "f1": 0.923076923076923
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001973.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001974.png",
+        "overall": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        },
+        "mol_only": {
+            "precision": 0.8888888888888888,
+            "recall": 0.8888888888888888,
+            "f1": 0.8888888888888888
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001975.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001976.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001977.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001978.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001979.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001980.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001981.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001982.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001983.png",
+        "overall": {
+            "precision": 0.42857142857142855,
+            "recall": 0.5,
+            "f1": 0.4615384615384615
+        },
+        "mol_only": {
+            "precision": 0.42857142857142855,
+            "recall": 0.5,
+            "f1": 0.4615384615384615
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001984.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666665
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1": 0.888888888888889
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001985.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001986.png",
+        "overall": {
+            "precision": 0.7058823529411765,
+            "recall": 0.7058823529411765,
+            "f1": 0.7058823529411765
+        },
+        "mol_only": {
+            "precision": 0.7058823529411765,
+            "recall": 0.7058823529411765,
+            "f1": 0.7058823529411765
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001987.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001988.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001989.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001990.png",
+        "overall": {
+            "precision": 0.7777777777777778,
+            "recall": 0.7777777777777778,
+            "f1": 0.7777777777777778
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001991.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001992.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001993.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001994.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001995.png",
+        "overall": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1": 0.9
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001996.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001997.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001998.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RobustRDP_test/images_eval_resized/001999.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    }
+]

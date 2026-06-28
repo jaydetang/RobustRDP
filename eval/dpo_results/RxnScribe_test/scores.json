@@ -1,0 +1,24 @@
+{
+    "overall": {
+        "precision": 0.8120300751879699,
+        "recall": 0.826530612244898,
+        "f1": 0.8192161820480404
+    },
+    "overall_stats": {
+        "gold_hits": 324,
+        "gold_total": 392,
+        "pred_hits": 324,
+        "pred_total": 399
+    },
+    "mol_only": {
+        "precision": 0.9022556390977443,
+        "recall": 0.9132653061224489,
+        "f1": 0.9077270902444693
+    },
+    "mol_only_stats": {
+        "gold_hits": 358,
+        "gold_total": 392,
+        "pred_hits": 360,
+        "pred_total": 399
+    }
+}

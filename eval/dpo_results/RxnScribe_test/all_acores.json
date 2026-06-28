@@ -1,0 +1,1796 @@
+[
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op7001694-Scheme-c2.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op300031r-Scheme-c6.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo962200s-Scheme-c3.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.4,
+            "f1": 0.4444444444444445
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.4,
+            "f1": 0.4444444444444445
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op000095p-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja905415r-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol0002368-Scheme-c1.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo025987x-Figure-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo501785d-Scheme-c1.png",
+        "overall": {
+            "precision": 0.6153846153846154,
+            "recall": 0.8,
+            "f1": 0.6956521739130435
+        },
+        "mol_only": {
+            "precision": 0.6923076923076923,
+            "recall": 0.8,
+            "f1": 0.7422680412371134
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja011003u-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op010052o-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo502752u-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo501910q-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op900102a-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op010052o-Scheme-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op960008m-Scheme-c7.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol300842d-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol3023903-Figure-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0155211-Figure-c2.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja042849b-Table-c1.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0601619-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja974106e-Scheme-c2.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo010297z-Scheme-c2.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol800086s-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op200112g-Scheme-c5.png",
+        "overall": {
+            "precision": 0.8571428571428571,
+            "recall": 1.0,
+            "f1": 0.923076923076923
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 1.0,
+            "f1": 0.923076923076923
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol006383n-Table-c1.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "f1": 0.4
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo4014707-Table-c1.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol501514b-Scheme-c3.png",
+        "overall": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        },
+        "mol_only": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8000000000000002
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol7014434-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol502425f-Scheme-c1.png",
+        "overall": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1": 0.8333333333333334
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.6b00661-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo9717245-Scheme-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1": 0.8571428571428571
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op9000687-Scheme-c5.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol051920v-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op9800717-Scheme-c5.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b03590-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol400110c-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b01309-Scheme-c6.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo4027148-Figure-c3.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo000585f-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op3000042-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol500618w-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol0604623-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op300087r-Figure-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op8002486-Table-c1.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b03104-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo400755q-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol500444z-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op960008m-Scheme-c14.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op100205s-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op990044w-Table-c1.png",
+        "overall": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "f1": 0.25
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol402047d-Table-c2.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op2001047-Table-c5.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol016466j-Scheme-c2.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b02545-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo951899j-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b02279-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol300353w-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op990044w-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo961049j-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol2017438-Table-c2.png",
+        "overall": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op200351g-Scheme-c4.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op034064g-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op700249f-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b03589-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op300171m-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol016693l-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo982004g-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol300387f-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo990938e-Table-c8.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op3000042-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.oprd.5b00209-Scheme-c10.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op700160a-Scheme-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op5003165-Scheme-c4.png",
+        "overall": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0340964-Figure-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op900197r-Scheme-c9.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op7000172-Table-c2.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.oprd.6b00128-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op100267p-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja053368a-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op700292s-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op5001385-Figure-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol4005905-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol010283f-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op060099f-Scheme-c5.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op200086t-Scheme-c2.png",
+        "overall": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        },
+        "mol_only": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.oprd.6b00011-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo991681n-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op700060e-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo951899j-Table-c5.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol802073q-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo961365y-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b01692-Scheme-c1.png",
+        "overall": {
+            "precision": 0.625,
+            "recall": 0.7142857142857143,
+            "f1": 0.6666666666666666
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja0547477-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.6b00233-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op020211j-Scheme-c1.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol035681s-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol015948s-Table-c2.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op049899l-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo951899j-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op060155c-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op970113b-Scheme-c3.png",
+        "overall": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        },
+        "mol_only": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol401042b-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op200312m-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol3023177-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op700253t-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol0480731-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo2001534-Table-c5.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol301114z-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja9810742-Table-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b01044-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol800418m-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.joc.5b02057-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op2001047-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo200480h-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op970105v-Scheme-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op400242j-Scheme-c7.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.16666666666666666,
+            "recall": 0.5,
+            "f1": 0.25
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op400278d-Table-c3.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol036510q-Scheme-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja406383h-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0102013-Scheme-c7.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo001614p-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol0703579-Table-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op2001047-Table-c7.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0601316-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja312277g-Table-c4.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja307151x-Figure-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo2001534-Table-c6.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol800523j-Scheme-c3.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0602270-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/jo982024i-Scheme-c1.png",
+        "overall": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1": 0.875
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op0340816-Figure-c2.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol800086s-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op200038y-Table-c2.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ol052245s-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/acs.orglett.5b01692-Table-c1.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/ja407689a-Table-c1.png",
+        "overall": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op000111i-Figure-c6.png",
+        "overall": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    },
+    {
+        "file_name": "./processed_val_data/RxnScribe_test/resized_eval_images/op300170q-Scheme-c2.png",
+        "overall": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+        },
+        "mol_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        }
+    }
+]
