@@ -1,0 +1,118 @@
+diff --git a/data/dataset_info.json b/data/dataset_info.json
+index 4a823133..d17968b1 100644
+--- a/data/dataset_info.json
++++ b/data/dataset_info.json
+@@ -1,4 +1,50 @@
+ {
++  "stage1_pretrain": {
++        "file_name": "../../processed_train_data/pretrain_data/pretrain_downsampled_llm_6w.json",
++        "formatting": "sharegpt",
++        "columns": {
++        "messages": "messages",
++        "images": "images"
++        },
++        "tags": {
++        "role_tag": "role",
++        "content_tag": "content",
++        "user_tag": "user",
++        "assistant_tag": "assistant"
++        }
++    },
++   "stage2_sft": {
++    "file_name": "../../processed_train_data/sft_data/multi_task_sft_downsampled_llm.json",
++    "formatting": "sharegpt",
++    "columns": {
++      "messages": "messages",
++      "images": "images",
++      "disturb_rxns": "disturb_rxns"
++    },
++    "tags": {
++      "role_tag": "role",
++      "content_tag": "content",
++      "user_tag": "user",
++      "assistant_tag": "assistant"
++    }
++  },
++  "stage3_dpo": {
++    "file_name": "../../processed_train_data/dpo_data/train_downsampled_llm_dpo.json",
++    "ranking": true,
++    "formatting": "sharegpt",
++    "columns": {
++      "messages": "messages",
++      "chosen": "chosen",
++      "rejected": "rejected",
++      "images": "images"
++    },
++    "tags": {
++      "role_tag": "from",
++      "content_tag": "value",
++      "user_tag": "user",
++      "assistant_tag": "assistant"
++    }
++  },
+   "identity": {
+     "file_name": "identity.json"
+   },
+diff --git a/src/llamafactory/data/converter.py b/src/llamafactory/data/converter.py
+index 7ec6f12b..c76db7b2 100644
+--- a/src/llamafactory/data/converter.py
++++ b/src/llamafactory/data/converter.py
+@@ -218,6 +218,7 @@ class SharegptDatasetConverter(DatasetConverter):
+         output = {
+             "_prompt": prompt,
+             "_response": response,
++            "_disturb_rxns": example["disturb_rxns"] if "disturb_rxns" in example else None,
+             "_system": system,
+             "_tools": example[self.dataset_attr.tools] if self.dataset_attr.tools else "",
+             "_images": self._find_medias(example[self.dataset_attr.images]) if self.dataset_attr.images else None,
+diff --git a/src/llamafactory/data/processor/supervised.py b/src/llamafactory/data/processor/supervised.py
+index b5aba11b..bc785c86 100644
+--- a/src/llamafactory/data/processor/supervised.py
++++ b/src/llamafactory/data/processor/supervised.py
+@@ -34,6 +34,7 @@ class SupervisedDatasetProcessor(DatasetProcessor):
+         self,
+         prompt: list[dict[str, str]],
+         response: list[dict[str, str]],
++        disturb_rxns: Optional[list[int]],
+         system: Optional[str],
+         tools: Optional[str],
+         images: list["ImageInput"],
+@@ -52,7 +53,8 @@ class SupervisedDatasetProcessor(DatasetProcessor):
+         for turn_idx, (source_ids, target_ids) in enumerate(encoded_pairs):
+             if total_length >= self.data_args.cutoff_len:
+                 break
+-
++            
++            # print("len(source_ids)+len(target_ids): ", len(source_ids)+len(target_ids))
+             source_len, target_len = infer_seqlen(
+                 len(source_ids), len(target_ids), self.data_args.cutoff_len - total_length
+             )
+@@ -79,6 +81,20 @@ class SupervisedDatasetProcessor(DatasetProcessor):
+                 input_ids += source_ids + target_ids
+                 labels += source_label + target_label
+ 
++            if disturb_rxns and len(disturb_rxns) > 0:
++                rxn_id = self.tokenizer.encode("<rxn>", add_special_tokens=False)[0]
++                rxn_pos = [i for i, id in enumerate(labels) if id == rxn_id]
++                for number in disturb_rxns:
++                    if number > len(rxn_pos)-1:
++                        print("labels: ", labels)
++                        print("disturb_rxns: ", disturb_rxns)
++                        continue
++
++                    if number+1 <= len(rxn_pos)-1:
++                        labels[rxn_pos[number]: rxn_pos[number+1]] = [-100] * len(labels[rxn_pos[number]: rxn_pos[number+1]])
++                    else:
++                        labels[rxn_pos[number]:] = [-100] * len(labels[rxn_pos[number]:])
++
+         if self.template.efficient_eos:
+             input_ids += [self.tokenizer.eos_token_id]
+             labels += [self.tokenizer.eos_token_id]
+@@ -99,6 +115,7 @@ class SupervisedDatasetProcessor(DatasetProcessor):
+             input_ids, labels = self._encode_data_example(
+                 prompt=examples["_prompt"][i],
+                 response=examples["_response"][i],
++                disturb_rxns=examples["_disturb_rxns"][i],
+                 system=examples["_system"][i],
+                 tools=examples["_tools"][i],
+                 images=examples["_images"][i] or [],

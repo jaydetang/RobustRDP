@@ -1,0 +1,26 @@
+# =====================================================
+# RobustRDP — Additional dependencies
+# =====================================================
+# Only packages REQUIRED by RobustRDP's own code that
+# are NOT already covered by LLaMA-Factory's dependencies
+# are listed here. LLaMA-Factory provides torch,
+# torchvision, transformers, peft, numpy, pandas,
+# matplotlib, etc.
+#
+# After installing LLaMA-Factory (pip install -e .),
+# install these extras:
+#   pip install -r requirements.txt
+
+# --- Image processing ---
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# --- Cheminformatics (pretrain data generation) ---
+rdkit>=2023.9.0
+SmilesPE>=2.1.0
+
+# --- Qwen2.5-VL inference utilities ---
+qwen-vl-utils>=0.0.7
+
+# --- Progress bar ---
+tqdm>=4.65.0

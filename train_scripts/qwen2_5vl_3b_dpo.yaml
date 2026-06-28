@@ -1,0 +1,60 @@
+### model
+model_name_or_path: saves/stage2_sft/qwen2_5vl-3b/pretrainllm_sftall_lr1e-5_bs4_cosine_decouple_disturb_15d/checkpoint-47700
+image_max_pixels: 1000000
+video_max_pixels: 16384
+# trust_remote_code: true
+flash_attn: fa2
+# flash_attn: sdpa  # 使用 PyTorch SDPA
+
+### method
+stage: dpo
+pref_beta: 0.1  # default=0.1
+pref_loss: sigmoid # choices: [sigmoid (dpo), orpo, simpo]
+pref_ftx: 0.5
+
+do_train: true
+finetuning_type: full
+freeze_vision_tower: true
+freeze_multi_modal_projector: true
+freeze_language_model: false
+
+deepspeed: ./LLaMA-Factory/examples/deepspeed/ds_z3_config.json
+
+### dataset
+dataset_dir: LLaMA-Factory/data
+dataset: stage3_dpo
+# mix_strategy: interleave_over
+template: qwen2_vl
+cutoff_len: 4500
+# max_samples: 4240
+overwrite_cache: true
+preprocessing_num_workers: 32
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/stage3_dpo/qwen2_5vl-3b/dpollm_lr3e-7_bs64_cosine_beta01_ftx05
+logging_steps: 1
+save_steps: 20
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: true
+report_to: tensorboard # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 32
+learning_rate: 3.0e-7
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+# add_special_tokens: <rxn>, <rct>, <cnd>, <prd>, <txt>, <mol>
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500

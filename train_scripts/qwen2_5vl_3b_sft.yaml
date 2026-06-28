@@ -1,0 +1,54 @@
+model_name_or_path: saves/stage1_pretrain/qwen2_5vl-3b/pretrainllm_lr1e-6_bs16_cosine_6w/final
+image_max_pixels: 1000000
+video_max_pixels: 16384
+trust_remote_code: true
+flash_attn: fa2
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: false
+freeze_multi_modal_projector: false
+freeze_language_model: false
+deepspeed: ./LLaMA-Factory/examples/deepspeed/ds_z0_config.json
+
+### dataset
+dataset_dir: LLaMA-Factory/data
+dataset: stage2_sft
+# mix_strategy: interleave_over #concat
+# interleave_probs: 0.333,0.333,0.167,0.167
+template: qwen2_vl
+cutoff_len: 4500
+# max_samples: 62000
+overwrite_cache: true
+preprocessing_num_workers: 32
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/stage2_sft/qwen2_5vl-3b/pretrainllm_sftall_lr1e-5_bs4_cosine_decouple_disturb_15d
+logging_steps: 1
+save_steps: 1000
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: true
+report_to: tensorboard  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 2
+learning_rate: 1.0e-5
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+# add_special_tokens: <rxn>,<rct>,<cnd>,<prd>,<txt>,<mol>
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500

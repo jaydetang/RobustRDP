@@ -1,0 +1,62 @@
+# ======================
+#  LLaMA-Factory (cloned external repo, managed separately)
+# ======================
+LLaMA-Factory/
+
+# ======================
+#  Python
+# ======================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+
+# ======================
+#  Virtual environment
+# ======================
+.venv/
+venv/
+env/
+*.whl
+
+# ======================
+#  IDE / Editor
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ======================
+#  Data & model checkpoints
+# ======================
+PLMs/
+processed_train_data/
+processed_val_data/
+raw_val_data/*.json
+raw_val_data/*.zip
+raw_val_data/*.tar
+raw_val_data/*.gz
+
+# ======================
+#  Raw data for generation scripts (large files, download separately)
+# ======================
+pretrain_data_process/raw_data/pubchem/
+pretrain_data_process/raw_data/conditions.txt
+pretrain_data_process/raw_data/ttf-ms-win10/
+saves/
+eval/SFT_Model/
+eval/dpo_results/
+
+# ======================
+#  Logs & temp
+# ======================
+*.log
+wandb/
+runs/
+tmp/
