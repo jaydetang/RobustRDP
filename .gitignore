@@ -46,9 +46,9 @@ env/
 # ======================
 #  Raw data for generation scripts (large files, download separately)
 # ======================
-# pretrain_data_process/raw_data/pubchem/
-# pretrain_data_process/raw_data/conditions.txt
-# pretrain_data_process/raw_data/ttf-ms-win10/
+pretrain_data_process/raw_data/pubchem/
+pretrain_data_process/raw_data/conditions.txt
+pretrain_data_process/raw_data/ttf-ms-win10/
 # saves/
 # eval/SFT_Model/
 # eval/dpo_results/
