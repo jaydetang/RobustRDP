@@ -47,6 +47,11 @@ conda activate robustrdp
 ```bash
 git clone https://github.com/jaydetang/RobustRDP.git
 cd RobustRDP
+```
+
+> **💡 Note:** This repository uses [Git LFS](https://git-lfs.com/) to track large files (e.g., pretrain raw data under `pretrain_data_process/raw_data/`). Run `git lfs pull` after cloning.
+
+```bash
 pip install -r requirements.txt
 ```
 
